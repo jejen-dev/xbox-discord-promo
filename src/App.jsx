@@ -265,7 +265,7 @@ export default function App() {
               onClick={playNotif2}
               className="inline-flex items-center gap-2 text-xs tracking-wider text-zinc-500 hover:text-white transition"
             >
-              ⌘ github.com/jejen-dev
+              gabut, codenya beneran kok muehe✌🏻
             </a>
           </motion.div>
 
