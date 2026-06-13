@@ -41,7 +41,7 @@ export default function App() {
   }, []);
 
   const copyCode = async () => {
-    playNotif1();
+    playNotif2();
 
     await navigator.clipboard.writeText(promoCode);
 
